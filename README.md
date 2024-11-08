@@ -1,1 +1,1 @@
-# ElecTech-Sales-Analysis
+# ElecTech-Sales-Analysis - Project Overview
