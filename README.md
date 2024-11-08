@@ -22,3 +22,6 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 (Insert Screen of Dataset - from Python)
 
 ## Executive Summary
+After a modest start, ElecTech saw an impressive increase in January, as confirmed by KPI, which all showed strong  growth: Revenue +234%, Order Count +156%, and AOV +30%. This performance is likely attributed to the winter sales period. 
+The company encountered its first significant decline in August, with both Revenue and Order Count metrics dropping by around 25% compared to July, while Average Order Value continued its upward trend through September 2024.
+The following sections will explore additional factors and highlight key areas for improvement.
