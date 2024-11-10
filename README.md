@@ -1,11 +1,11 @@
 # ElecTech-Sales-Analysis - Project Overview
 
 
-## **The goal of this project is to provide valuable insights into the sales performance of a commerce company over the pas year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.**
+## **The goal of this project is to provide valuable insights into the sales performance of a e-commerce company over the past year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.**
 
 ## Project Background
 
-Founded in 2021, ElecTech is an e-commerce company specializing in high-tech products and serving customers across Europe. In 2023, the company launched its first website platform/marketplace, enabling customers to buy products directly.
+Founded in June 2023, ElecTech is an e-commerce company specializing in high-tech products and serving customers across Europe. In September 2023, the company launched its first website platform/marketplace, enabling customers to buy products directly.
 Now that a year has passed since the platform's launch, the sales and marketing teams have engaged our expertise as data analysts to leverage data collected over the past year. The analysis aims to provide a deeper understanding of sales performance across product types and customer segments, and to support impactful decision-making for strategy development.
 
 **In order to evaluate sales performance, we focused our insights and recommendations on the following key metrics:**
