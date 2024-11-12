@@ -66,4 +66,9 @@ The following sections will explore additional factors and highlight key areas f
 
 * 78% Revenue generated is made by No Membership - $33,531,106 - Total of 10 512 Completed Order - 21% by Loyalty Member - $9,098,509 - around 2920 Orders
 
-* Standard shipping is the most commonly chosen method, accounting for 34% of all shipping selections (4561 Completed Orders).
+* Standard shipping is the most commonly chosen method accros all age ranges, accounting for 34% of all shipping selections (4,561 Completed Orders).
+
+* Even loyalty program has no impact on shipping method choice; standard shipping remains the most commonly used option (36% among customers with loyalty membership - 33% customers no/loyalty membership).
+  
+
+
