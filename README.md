@@ -30,11 +30,11 @@ The following sections will explore additional factors and highlight key areas f
 
 ### Sales Trends:
 
-Overall, ElecTech experienced a very encouraging first year based on key performance indicators (KPIs): Revenue, Average Order Value (AOV), and Order Count. Key Metrics Results for September 2023 vs. September 2024: Revenue: +945% | Order Volume: +685% | AOV: +33% (September 2024 compared to September 2023).
+- Overall, ElecTech experienced a very encouraging first year based on key performance indicators (KPIs): Revenue, Average Order Value (AOV), and Order Count.  Key Metrics Results for September 2023 vs. September 2024: Revenue: +945% | Order Volume: +685% | AOV: +33% (September 2024 compared to September 2023).
 
-After a modest increase in the first two months, the tech company saw an impressive spike in January across all metrics. During this period, the company’s order count peaked in January 2024 with a total of 2,049 orders, generating sales revenue of $6,620,172 compared to $1,980,700 in the previous month. The French winter sales period likely contributed to this impressive increase, which helped boost brand awareness among customers.
+- After a modest increase in the first two months, the tech company saw an impressive spike in January across all metrics. During this period, the company’s order count peaked in January 2024 with a total of 2,049 orders, generating sales revenue of $6,620,172 compared to $1,980,700 in the previous month. The French winter sales period likely contributed to this impressive increase, which helped boost brand awareness among customers.
 
-After maintaining steady performance over eight consecutive months, Order Volume and Revenue began to decline in August through the end of the period. Meanwhile, the AOV metric continued to increase, revealing commercial opportunities for the company.
+- After maintaining steady performance over eight consecutive months, Order Volume and Revenue began to decline in August through the end of the period. Meanwhile, the AOV metric continued to increase, revealing commercial opportunities for the company.
 
 ### Product Level:
 
