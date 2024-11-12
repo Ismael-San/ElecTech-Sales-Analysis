@@ -53,3 +53,17 @@ The following sections will explore additional factors and highlight key areas f
     * Smartphone products are most frequently paired with impulse items, with approximately 1,600 orders.
  
 ### Customer Segmentation:
+
+* Most of ElecTech customers are 60+ year old range - 34% of Total Customers  - 60+ years old generate 14M$ Revenue over the period
+
+* 18-29 age range has the least amount of customers: 
+
+* AOV pretty much equal between different age-range
+
+* Only AOV of 45-59 and 18-59 are greater than the average of total customers (3174$)
+
+* Explain by in Difference Price-Level Product: 60yr customers are numerous but most of their order are low-price products (Smartphone 21$) whereas other range, young and 45-59 more attract to High-Level product
+
+* 78% Revenue generated is made by No Membership - 10.5K Orders (completed) - 21% by Loyalty Member - around 3K Orders
+
+* Most Customers used Standard Shipping Mode over the period 
