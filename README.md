@@ -56,15 +56,15 @@ The following sections will explore additional factors and highlight key areas f
 
 * Most of ElecTech customers are 60+ year old range - 34% of Total Customers  - 60+ years old generate $14,197,239 over the period
 
-* 18-29 age range has the least amount of customers: 2526
+* 18-29 age range has the least amount of customers: 2,526
 
 * AOV pretty much equal between different age-range
 
-* Only AOV of 45-59 and 18-59 are greater than the average of total customers (3174$)
+* Only AOV of 45-59 and 18-59 are greater than the average of total customers (3,174$)
 
 * Explain by in Difference Price-Level Product: 60yr customers are numerous but most of their order were towards low-price products (Smartphone 21$) whereas other range, young and 45-59 more attract to High-Level product
 
-* 78% Revenue generated is made by No Membership - $33,531,106 - Total of 10 512 Completed Order - 21% by Loyalty Member - $9,098,509 - around 2920 Orders
+* 78% Revenue generated is made by No Membership - $33,531,106 - Total of 10,512 Completed Order - 21% by Loyalty Member - $9,098,509 - around 2920 Orders
 
 * Standard shipping is the most commonly chosen method accros all age ranges, accounting for 34% of all shipping selections (4,561 Completed Orders).
 
