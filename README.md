@@ -51,3 +51,5 @@ After maintaining steady performance over eight consecutive months, Order Volume
 - Add-ons: Extended Warranty, Impulse Items, and Accessories:
     * 75% of completed orders include an add-on, contributing $835,595 in additional revenue.
     * Smartphone products are most frequently paired with impulse items, with approximately 1,600 orders.
+ 
+### Customer Segmentation:
