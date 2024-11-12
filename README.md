@@ -42,7 +42,7 @@ The following sections will explore additional factors and highlight key areas f
 
 - Most Popular Product: SKU1001 (Smartphone) is the most popular product, with a 5/5 rating. However, it represents only 1% of smartphone revenue due to its low unit price of $21, despite a high order count.
 
-- Headphones: Headphones contribute to only 6% of total revenue ($2,734,651) and include only two product varieties. The most valuable headphone product also has the lowest rating (1/5) among all company products.
+- Headphones: Headphones contribute to only 6% of total revenue ($2,734,651) and include only two product varieties. The most valuable headphone product also has the lowest rating (1/5 Star Ratings) among all company products.
 
 - Consumer Preferences: Across product models, the highest-rated products tend to be the most expensive options in each category.
 
