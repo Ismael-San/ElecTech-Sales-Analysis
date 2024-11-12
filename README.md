@@ -56,7 +56,7 @@ The following sections will explore additional factors and highlight key areas f
 
 * Most of ElecTech customers are 60+ year old range - 34% of Total Customers  - 60+ years old generate $14,197,239 over the period
 
-* 18-29 age range has the least amount of customers: 2,526
+* 18-29 age range has the least amount of customers: 2,526 Total Customer
 
 * AOV pretty much equal between different age-range
 
