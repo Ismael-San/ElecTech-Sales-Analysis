@@ -35,3 +35,19 @@ Overall, ElecTech experienced a very encouraging first year based on key perform
 After a modest increase in the first two months, the tech company saw an impressive spike in January across all metrics. During this period, the company’s order count peaked in January 2024 with a total of 2,049 orders, generating sales revenue of $6,620,172 compared to $1,980,700 in the previous month. The French winter sales period likely contributed to this impressive increase, which helped boost brand awareness among customers.
 
 After maintaining steady performance over eight consecutive months, Order Volume and Revenue began to decline in August through the end of the period. Meanwhile, the AOV metric continued to increase, revealing commercial opportunities for the company.
+
+### Product Level:
+
+- Smartphones is the product type that generates the highest revenue for the company, totalling $14,407,836 and accounting for 34% of total revenue over the period.
+
+- Most Popular Product: SKU1001 (Smartphone) is the most popular product, with a 5/5 rating. However, it represents only 1% of smartphone revenue due to its low unit price of $21, despite a high order count.
+
+- Headphones: Headphones contribute to only 6% of total revenue ($2,734,651) and include only two product varieties. The most valuable headphone product also has the lowest rating (1/5) among all company products.
+
+- Consumer Preferences: Across product models, the highest-rated products tend to be the most expensive options in each category.
+
+- Order Completion: One-third of total orders are canceled, resulting in an estimated $20,973,053 revenue loss.
+
+- Add-ons: Extended Warranty, Impulse Items, and Accessories:
+    * 75% of completed orders include an add-on, contributing $835,595 in additional revenue.
+    * Smartphone products are most frequently paired with impulse items, with approximately 1,600 orders.
