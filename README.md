@@ -66,4 +66,4 @@ The following sections will explore additional factors and highlight key areas f
 
 * 78% Revenue generated is made by No Membership - $33,531,106 - Total of 10 512 Completed Order - 21% by Loyalty Member - $9,098,509 - around 2920 Orders
 
-* Most Customers used Standard Shipping Mode over the period 
+* Standard shipping is the most commonly chosen method, accounting for 34% of all shipping selections (4561 Completed Orders).
