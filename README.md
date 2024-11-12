@@ -48,7 +48,7 @@ The following sections will explore additional factors and highlight key areas f
 
 - Order Completion: One-third of total orders are canceled, resulting in an estimated $20,973,053 revenue loss.
 
-- Add-ons: Extended Warranty, Impulse Items, and Accessories:
+- Add-ons are composed of Extended Warranty, Impulse Items, and Accessories:
     * 75% of completed orders include an add-on, contributing $835,595 in additional revenue.
     * Smartphone products are most frequently paired with impulse items, with approximately 1,600 orders.
  
