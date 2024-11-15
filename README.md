@@ -71,4 +71,25 @@ The following sections will explore additional factors and highlight key areas f
 * Even loyalty program has no impact on shipping method choice; standard shipping remains the most commonly used option (36% among customers with loyalty membership - 33% customers no/loyalty membership).
   
 
+## Recommendations
+
+Based on the uncovered insights, the following recommendations have been provided:
+
+Capitalize on high AOV level increase phase to reshape Orders and Revenue increase in September:
+Introduce new cross-selling and upselling strategies by presenting complementary products and incentivizing add-ons during customer purchases. Focus marketing efforts on the most popular, higher-cost products, such as smartphones, and on customer segments like 60+ age range). Encourage purchases by offering free shipping on orders that meet a certain threshold. 
+This can help reduce stock of less popular items, such as headphones (10% of total orders), appeal to customers’ interest in add-ons, and leverage the high AOV (Average Order Value) growth phase to boost both Orders and Revenue
+
+
+Investigate more deeply reason of January impressive increase - Leverage on historical metrics results:
+Assess the origin of the impressive increase seen in January (+234% in Revenue Sales compared to December) and determine whether the winter sales period had an impact. The goal is to avoid a 'first-year effect' and identify seasonal trends to optimize marketing efforts and boost future revenue by:
+- Analyzing the marketing efforts/strategies used during that time to determine ways to capitalize on them.
+- Conducting a customer survey to understand how customers discovered the ElecTech brand.
+
+
+Increase low amount of loyalty membership:
+"Only 22% of total orders were placed by loyalty members. Targeting the most frequent and high-value customers based on past order data with tailored offers can help increase membership. Enhance marketing efforts by promoting membership benefits, such as exclusive discounts, loyalty points, and a rewards system, to foster a strong sense of loyalty among customers."
+
+
+Investigate on the origin of Cancelled Orders and diminish the amount:
+Investigate the causes of canceled orders and reduce their frequency by highlighting inventory levels on product pages to create urgency and encourage purchases. Implement abandoned cart notifications, such as pop-ups or reminder emails, to alert customers when they are close to losing their cart and help prevent abandonment. Additionally, examine other potential factors, including inventory shortages or logistics and delivery issues.
 
