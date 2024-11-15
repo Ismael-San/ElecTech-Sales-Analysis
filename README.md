@@ -82,8 +82,8 @@ This can help reduce stock of less popular items, such as headphones (10% of tot
 
 Investigate more deeply reason of January impressive increase - Leverage on historical metrics results:
 Assess the origin of the impressive increase seen in January (+234% in Revenue Sales compared to December) and determine whether the winter sales period had an impact. The goal is to avoid a 'first-year effect' and identify seasonal trends to optimize marketing efforts and boost future revenue by:
-- Analyzing the marketing efforts/strategies used during that time to determine ways to capitalize on them.
-- Conducting a customer survey to understand how customers discovered the ElecTech brand.
+Analyzing the marketing efforts/strategies used during that time to determine ways to capitalize on them.
+Conducting a customer survey to understand how customers discovered the ElecTech brand.
 
 
 Increase low amount of loyalty membership:
