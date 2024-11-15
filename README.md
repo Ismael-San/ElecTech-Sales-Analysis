@@ -44,9 +44,9 @@ The following sections will explore additional factors and highlight key areas f
 
 - Headphones contribute to only 6% of total revenue ($2,734,651) and include only two product varieties. The most valuable headphone product also has the lowest rating (1/5 Star Ratings) among all company products.
 
-- Consumer Preferences: Across product models, the highest-rated products tend to be the most expensive options in each category.
+- Across product models, the highest-rated products tend to be the most expensive options in each category.
 
-- Order Completion: One-third of total orders are canceled, resulting in an estimated $20,973,053 revenue loss.
+- One-third of total orders are canceled, resulting in an estimated $20,973,053 revenue loss.
 
 - Add-ons are composed of Extended Warranty, Impulse Items, and Accessories:
     * 75% of completed orders include an add-on, contributing $835,595 in additional revenue.
