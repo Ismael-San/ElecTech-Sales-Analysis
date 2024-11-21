@@ -75,7 +75,7 @@ The analysis also revealed opportunities for ElecTech to benefit from expanding 
 
 Based on the uncovered insights, the following recommendations have been provided:
 
-Introduce new cross-selling and upselling strategies **by presenting complementary products and incentivizing add-ons during customer purchases. Focus marketing efforts on the most popular, higher-cost products, such as smartphones, and on customer segments like 60+ age range).** 
+Introduce new cross-selling and upselling strategies **by presenting complementary products and incentivizing add-ons during customer purchases. Focus marketing efforts on the most popular, higher-cost products, such as smartphones, and on customer segments like 60+ age range.** 
 **Encourage purchases by offering free shipping on orders that meet a certain threshold.**
 This can help reduce stock of less popular items, such as headphones (10% of total orders), appeal to customers’ interest in add-ons, and leverage the high AOV (Average Order Value) growth phase to boost both Orders and Revenue
 
