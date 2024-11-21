@@ -40,7 +40,7 @@ The analysis also revealed opportunities for ElecTech to benefit from expanding 
 
 - Smartphones is the product type that generates the highest revenue for the company, totalling $14,407,836 and accounting for 34% of total revenue over the period.
 
-- Most Popular Product: SKU1001 (Smartphone) is the most popular product, with a 5/5 rating. However, it represents only 1% of smartphone revenue due to its low unit price of $21, despite a high order count.
+- Among smartphones models, SKU1001 (Smartphone) emerged as the most popular product one, with a 5/5 rating. However, it represents only 1% of smartphone revenue due to its low unit price of $21, despite a high order count.
 
 - Headphones contribute to only 6% of total revenue ($2,734,651) and include only two product varieties. The most valuable headphone product also has the lowest rating (1/5 Star Ratings) among all company products.
 
