@@ -77,7 +77,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 
 
-Introduce new cross-selling and upselling strategies: 
+Introduce new cross-selling and upselling strategies 
 * **Present complementary products and incentivizing add-ons** during customer purchases. 
 * **Focus marketing efforts** on the most popular, higher-cost products, such as smartphones, and on customer segments like 60+ age range.
 * **Create free shipping offers on orders that meet a certain threshold and encourage purchases**
@@ -85,20 +85,20 @@ This can help reduce stock of less popular items, such as headphones (10% of tot
 
 
 
-Foster high-value customer and loyalty program:
+Foster high-value customer and loyalty program
 * **Target the most frequent and high-value customers based on past order data** with tailored offers can help increase membership - Only 22% of total orders were placed by loyalty members.  
 * **Enhance marketing efforts by promoting membership benefits, such as exclusive discounts, loyalty points, and a rewards system**, to foster a strong sense of loyalty among customers.
 
 
 
-Investigate the causes of canceled orders and reduce their frequency:
+Investigate the causes of canceled orders and reduce their frequency
 * **Highlight inventory levels** on product pages to create urgency and encourage purchases.
 * **Implement abandoned cart notifications, such as pop-ups or reminder emails,** to alert customers when they are close to losing their cart and help prevent abandonment.
 * **Examine other potential factors**, including inventory shortages or logistics and delivery issues.
 
 
 
-Assess the origin of the impressive increase seen in January:
+Assess the origin of the impressive increase seen in January
 * **Analyzing the marketing efforts/strategies** used during that time to determine ways to capitalize on them but also
 conducting a customer survey to understand how customers discovered the ElecTech brand.
 The goal is to avoid a 'first-year effect' and identify seasonal trends to optimize marketing efforts and boost future revenue by:
