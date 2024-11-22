@@ -1,4 +1,4 @@
-# ElecTech-Sales-Analysis - Project Overview
+# ElecTech-Sales-Analysis 2023-2024 - Project Overview
 
 
 ## **The goal of this project is to provide valuable insights into the sales performance of a e-commerce company over the past year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.**
