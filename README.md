@@ -25,7 +25,7 @@ The Python file utilised to clean, organize, and prepare data for the dashboard 
 ## Executive Summary
 ElectTech witnessed an impressive sales increase in January, as confirmed by key metrics used, all of which showed strong growth: Revenue +234%, Order Count +156%, AOV +30%. This performance is likely attributed to the winter sales period.
 Driven by smartphones as the most popular product, contributing 34% of revenue, the analysis highlighted the 60+ years range as the largest customer segment (34% of total customers), generating $14M of total revenue over the period.
-The analysis also revealed opportunities for ElecTech to benefit from expanding its top product lines, optimising bundling strategies, and fostering loyalty programs to decrease cancelled orders (33% of total orders). Additionally help the company recover from the decline in order value and revenue experienced since August.
+The analysis also revealed opportunities for ElecTech to benefit from expanding its top product lines, optimising bundling strategies, and fostering loyalty programs to decrease cancelled orders (33% of total orders). Additionally these strategies could help the company recover from the decline in order value and revenue experienced since August.
 
 ## Key Insights
 
