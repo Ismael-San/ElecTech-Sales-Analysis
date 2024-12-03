@@ -27,6 +27,9 @@ ElectTech witnessed an impressive sales increase in January, as confirmed by key
 Driven by smartphones as the most popular product, contributing 34% of revenue, the analysis highlighted the 60+ years range as the largest customer segment (34% of total customers), generating $14M of total revenue over the period.
 The analysis also revealed opportunities for ElecTech to benefit from expanding its top product lines, optimising bundling strategies, and fostering loyalty programs to decrease cancelled orders (33% of total orders). Additionally these strategies could help the company recover from the decline in order value and revenue experienced since August.
 
+<img width="1184" alt="ElecTech Overview" src="https://github.com/user-attachments/assets/7bc2a94b-ac70-4243-bbe6-b1cc63f64048">
+
+
 ## Key Insights
 
 ### Sales Trends:
@@ -52,6 +55,11 @@ The analysis also revealed opportunities for ElecTech to benefit from expanding 
 - Add-ons are composed of Extended Warranty, Impulse Items, and Accessories:
     * 75% of completed orders include an add-on, contributing $835,595 in additional revenue.
     * Smartphone products are most frequently paired with impulse items, with approximately 1,600 orders.
+
+
+
+<img width="1184" alt="ElecTech Product Level Dashboard" src="https://github.com/user-attachments/assets/e320ec52-e9eb-4d24-b3d7-72a6dbb64f83">
+
  
 ### Customer Segmentation:
 
@@ -70,7 +78,11 @@ The analysis also revealed opportunities for ElecTech to benefit from expanding 
 * Standard shipping is the most commonly chosen method accros all age ranges, accounting for 34% of all shipping selections (4,561 Completed Orders).
 
 * Even loyalty program has no impact on shipping method choice; standard shipping remains the most commonly used option (36% among customers with loyalty membership - 33% customers no/loyalty membership).
-  
+
+
+
+<img width="1184" alt="ElecTech Customer Dashboard" src="https://github.com/user-attachments/assets/a881c9b5-a9cc-46fc-802b-fc68076a8cd7">
+
 
 ## Recommendations
 
