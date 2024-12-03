@@ -1,5 +1,17 @@
 # ElecTech Sales Performance Analysis 2023-2024
 
+## Table of Contents
+
+* [Overview](#project-overview)
+* [Project Background](#project-background)
+* [Data Structure](#data-structure)
+* [Executive Summary](#executive-summary)
+* [Key Insights](#key-insights)
+   * [Sales Trends](#sales-trends)
+   * [Product Level](#product-level)
+   * [Customer Segmentation](#customer-segmentation)
+* [Recommendations](#recommendations)
+
 ## Project Overview
 
 ## **The goal of this project is to provide valuable insights into the sales performance of a e-commerce company over the past year. By analyzing various aspects of the sales data such as revenue, customer behaviour and product-level performance, we aim to identify patterns, implement effective solutions and produce data-driven recommendations for its marketing and sales teams.**
@@ -15,7 +27,7 @@ Now that a year has passed since the platform's launch, the sales and marketing 
 * **Product-Level Performance**: In-depth analysis of product trends during the period to understand their impact on sales.
 * **Customer Segmentation**: Evaluation of customer behavior by age range and loyalty membership.
 
-## Data Struture
+## Data Structure
 
 An interactive Tableau Desktop dashboard can be found [here](https://public.tableau.com/app/profile/ismael.cisse/viz/ElecTechAnalysis/ExecutiveOverview?publish=yes).
 The Python file utilised to clean, organize, and prepare data for the dashboard can be found here(insert link).
