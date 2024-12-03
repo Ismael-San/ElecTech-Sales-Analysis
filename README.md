@@ -17,7 +17,7 @@ Now that a year has passed since the platform's launch, the sales and marketing 
 
 ## Data Struture
 
-An interactive Tableau Desktop dashboard can be found here(insert link).
+An interactive Tableau Desktop dashboard can be found [here](https://public.tableau.com/app/profile/ismael.cisse/viz/ElecTechAnalysis/ExecutiveOverview?publish=yes).
 The Python file utilised to clean, organize, and prepare data for the dashboard can be found here(insert link).
 
 (Insert Screen of Dataset - from Python)
